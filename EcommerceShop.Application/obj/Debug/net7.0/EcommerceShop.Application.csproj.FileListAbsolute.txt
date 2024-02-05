@@ -1,0 +1,15 @@
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\bin\Debug\net7.0\EcommerceShop.Application.deps.json
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\bin\Debug\net7.0\EcommerceShop.Application.dll
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\bin\Debug\net7.0\EcommerceShop.Application.pdb
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\bin\Debug\net7.0\EcommerceShop.Domain.dll
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\bin\Debug\net7.0\EcommerceShop.Domain.pdb
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\obj\Debug\net7.0\EcommerceShop.Application.csproj.AssemblyReference.cache
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\obj\Debug\net7.0\EcommerceShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\obj\Debug\net7.0\EcommerceShop.Application.AssemblyInfoInputs.cache
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\obj\Debug\net7.0\EcommerceShop.Application.AssemblyInfo.cs
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\obj\Debug\net7.0\EcommerceShop.Application.csproj.CoreCompileInputs.cache
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\obj\Debug\net7.0\EcommerceShop.Application.csproj.CopyComplete
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\obj\Debug\net7.0\EcommerceShop.Application.dll
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\obj\Debug\net7.0\refint\EcommerceShop.Application.dll
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\obj\Debug\net7.0\EcommerceShop.Application.pdb
+D:\DotNetCoreApi\EcommerceShop.Api\EcommerceShop.Application\obj\Debug\net7.0\ref\EcommerceShop.Application.dll
